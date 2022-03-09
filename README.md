@@ -1,1 +1,1 @@
-Shell basics assignment
+Shell init task readme file
